@@ -1,0 +1,6 @@
+{
+  "name": "LambdaLens: Interactive Haskell Studio",
+  "description": "Learn Haskell concepts through interactive code snippets, step-by-step reduction diagrams, algebraic data type trees, monad visualizers, and an AI-powered Haskell tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
